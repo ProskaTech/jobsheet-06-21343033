@@ -1,5 +1,9 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Created by 21343033_Nicholas Ryan Jonathan
+1. File PercabanganIF.java merupakan latihan 1 untuk penggunaan if pada java.
+2. File PercabanganIFELSE.java merupakan latihan 2 untuk penggunaan if..else pada java.
+3. File Grade.java merupakan latihan 3 untuk menentukan kata penyemangat berdasarkan nilai menggunakan if..else.
+4. File Grade2.java merupakan latihan 4 untuk menentukan kata penyemangat berdasarkan nilai menggunakan switch case.
+5. File Tugas1aJS6.java merupakan tugas 1 untuk menentukan nilai rata-rata berdasarkan 3 nilai input dan memberikan emoticon berdasarkan nilai rata-rata tersebut menggunakan if dan BufferedReader.
+6. File Tugas1bJS6.java merupakan tugas 1 untuk menentukan nilai rata-rata berdasarkan 3 nilai input dan memberikan emoticon berdasarkan nilai rata-rata tersebut menggunakan if dan JOptionPane.
+7. File Tugas2aJS6.java merupakan tugas 2 untuk memberi output berupa kata sesuai angka input menggunakan if..else.
+8. File Tugas2bJS6.java merupakan tugas 2 untuk memberi output berupa kata sesuai angka input menggunakan switch case.
